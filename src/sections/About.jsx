@@ -6,6 +6,8 @@ function About() {
     "Javascript",
     "TypeScript ",
     "React",
+    "Next.js",
+    "Angular",
     "C#",
     ".NET CORE",
     "Razor",
@@ -84,29 +86,55 @@ function About() {
             <ul className="pl-5 list-disc list-inside text-lg text-gray-300">
               <li>
                 <strong className="text-blue-400">
-                  <em>Software Engineer - IOM LANKA</em>
+                  <em>Software Engineer - INNOV8Fusion Pvt Ltd</em>
                 </strong>
                 <a
-                  href="https://maps.google.com/?q=IOM LANKA"
+                  href="https://maps.google.com/?q=INNOV8Fusion"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="ml-2 text-blue-300 hover:underline"
                 >
                   📍
                 </a>
-                <br />* Hybrid | Aug 2024 - July 2025 <br />
-                - Developed solutions using .Net/C# and MSSQL with engineering
-                best practices and quality standards to meet the requirements of
-                Banking Applications like EDM, CRM, DMS.
-                <br />- Developed scalable REST APIs and contributed to CI/CD
-                pipelines using Azure.
-                <br />- Implemented solutions adhering to SOLID principles
-                throughout the SDLC.
+                <br />* Feb 2025 - Present <br />
+                - Built three full-scale systems: an HRM platform (.NET/C#,
+                MySQL, Entity Framework) and NestJS/TypeScript REST APIs on GCP
+                for a CSE broker platform and an onboarding platform.
+                <br />- Delivered RESTful APIs, RBAC, secure auth, biometric
+                fingerprint attendance, audit trails, and change-tracking
+                middleware for HRM compliance and data integrity.
+                <br />- Developed broker platform features: admin CMS, live CSE
+                market data, paper trading, portfolio/order management, JWT
+                auth, Prisma ORM, cloud storage, and WhatsApp/Facebook
+                integrations.
+                <br />- Implemented CI/CD with Docker, Terraform, and Cloud
+                Build across dev/staging/prod, plus Swagger/OpenAPI, Jest tests,
+                and automated DB migrations.
               </li>
               <br />
               <li>
                 <strong className="text-blue-400">
-                  <em>Software Engineer - titum</em>
+                  <em>Software Engineer - IOM Lanka</em>
+                </strong>
+                <a
+                  href="https://maps.google.com/?q=IOM Lanka"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="ml-2 text-blue-300 hover:underline"
+                >
+                  📍
+                </a>
+                <br />* Aug 2024 - Jan 2025 <br />
+                - Developed banking solutions (EDM, CRM, DMS) using .NET/C# and
+                MSSQL with engineering best practices.
+                <br />- Architected and implemented solutions following SOLID
+                principles across the full SDLC.
+                <br />- Built workflows using Microsoft Power Apps.
+              </li>
+              <br />
+              <li>
+                <strong className="text-blue-400">
+                  <em>Software Engineer - Titum</em>
                 </strong>
                 <a
                   href="https://maps.google.com/?q=Titum"
@@ -116,18 +144,20 @@ function About() {
                 >
                   📍
                 </a>
-                <br />* Remote | Aug 2023 - Aug 2024 <br />
-                - Developed solutions using React, .Net/C#, and MSSQL.
-                <br />- Built scalable REST APIs, collaborated on QA procedures
-                and testing plans.
+                <br />* Aug 2023 - Aug 2024 <br />
+                - Built ecommerce solutions with React, .NET/C#, and MSSQL.
+                <br />- Developed scalable REST APIs and collaborated on QA
+                plans and verification procedures.
+                <br />- Conducted bug analysis and optimized database design and
+                queries for performance and scalability.
                 <br />
                 Key Projects: LuckyHR Solution, RTS Intercom, CAPI, Ecommerce
-                Platform, BizX ERP system.
+                Platform, BizX ERP.
               </li>
               <br />
               <li>
                 <strong className="text-blue-400">
-                  <em>Software Engineer - Amana Bank</em>
+                  <em>Software Developer Intern - Amana Bank IT</em>
                 </strong>
                 <a
                   href="https://maps.google.com/?q=Amana Bank Sri Lanka"
@@ -137,31 +167,14 @@ function About() {
                 >
                   📍
                 </a>
-                <br />* Onsite | Jan 2023 - July 2024 <br />
-                - Built UIs using PHP, Bootstrap, jQuery. <br />
-                - Worked on .NET/C# Framework, MSSQL, and MVC for banking
-                systems. <br />
-                - Contributed to AWS-based CI/CD and DevOps.
+                <br />* Dec 2022 - Aug 2023 <br />
+                - Built responsive UIs with PHP, Bootstrap, JavaScript, and
+                jQuery.
+                <br />- Worked on .NET/C# banking apps with MSSQL and MVC.
+                <br />- Contributed to AWS-based CI/CD and DevOps.
                 <br />
-                Key Projects: HRIS, Banking Apps, Data Management System.
-              </li>
-              <br />
-              <li>
-                <strong className="text-blue-400">
-                  <em>Software Developer Intern - SEUSL University</em>
-                </strong>
-                <a
-                  href="https://maps.google.com/?q=South Eastern University of Sri Lanka"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="ml-2 text-blue-300 hover:underline"
-                >
-                  📍
-                </a>
-                <br />* Onsite | Dec 2021 - May 2022 <br />
-                - Assisted in developing custom software systems for the
-                university. <br />- Worked on a USAID-funded project,
-                contributing to implementation and testing.
+                Key Projects: HRIS, Banking Applications, Data Management
+                System.
               </li>
             </ul>
           </div>
