@@ -39,10 +39,12 @@ function About() {
           </h2>
           <div className="p-8 mb-6 rounded-xl border-white/10 border-2 hover:-translate-y-1 transition-all ">
             <p className="text-gray-300 mb-5 text-xl">
-              Software Engineer focused on .NET, Angular, NestJS, and Azure —
-              with growing expertise in Microsoft Power Platform, Agentic AI,
-              and LLMs. Passionate about building scalable systems and
-              innovative solutions.
+            Dynamic Full-stack Developer with 3+ years of experience . Proficient in technologies including .Net, Nodejs,
+            React, SQL, NoSQL, and Azure. Recognized for proactive problem-solving, adeptly resolving critical
+            production incidents, effectively managing projects, and mentoring junior teams. Experienced in software
+            integrations, and maintaining diverse systems and technologies seamlessly. Skilled in fostering strong
+            stakeholder relationships through excellent communication, presentation, and negotiation abilities. Committed
+            to delivering cutting-edge software solutions while staying updated on emerging technology trends.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
