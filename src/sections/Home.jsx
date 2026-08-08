@@ -19,11 +19,15 @@ function Home() {
         <h1 className="text-4xl md:text-5xl lg:text-6xl lg:max-w[500px] font-semibold mb-6 px-1 bg-gradient-to-r from-teal-400 via-blue-500 to-indigo-600 bg-clip-text text-transparent leading-right ">
           I am Athas Ahamed
         </h1>
+        <p className="text-teal-400 text-sm md:text-base mb-4 tracking-wide">
+          Software Engineer | .NET | Angular | NestJS | Azure | Aspiring AI
+          Engineer | Microsoft Power Platform | Agentic AI | LLM
+        </p>
         <p className="text-gray-300 text-lg mb-8 max-w-lg mx-auto">
-          I am a Fullstack Software Engineer who loves creation interactive,
-          scalable web applications. I’ve been actively building real-world
-          projects using modern technologies across the .NET, React, Angular,
-          SQL and Azure ecosystems.
+          I am a Software Engineer who loves creating interactive, scalable web
+          applications. I build real-world systems with .NET, Angular, NestJS,
+          and Azure, and I am growing into AI engineering with Microsoft Power
+          Platform, Agentic AI, and LLMs.
         </p>
         <div className="flex justify-center items-center space-x-4">
           <a

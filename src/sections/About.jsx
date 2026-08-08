@@ -4,23 +4,25 @@ function About() {
     "Html",
     "Css",
     "Javascript",
-    "TypeScript ",
+    "TypeScript",
     "React",
     "Next.js",
     "Angular",
     "C#",
     ".NET CORE",
+    "NestJS",
     "Razor",
     "Node Js",
-    "Angular",
     "Azure",
+    "Microsoft Power Platform",
+    "Agentic AI",
+    "LLM",
     "MSSQL",
     "MongoDB",
     "GraphQL",
     "PostgreSQL",
     "Docker",
-    "Kubernets",
-    "Operation Tools",
+    "Kubernetes",
     "REST APIs",
     "Testing",
     "CI/CD",
@@ -37,8 +39,10 @@ function About() {
           </h2>
           <div className="p-8 mb-6 rounded-xl border-white/10 border-2 hover:-translate-y-1 transition-all ">
             <p className="text-gray-300 mb-5 text-xl">
-              Passionate developer with expertise in building scalable web
-              applications and creating innovative solutions.
+              Software Engineer focused on .NET, Angular, NestJS, and Azure —
+              with growing expertise in Microsoft Power Platform, Agentic AI,
+              and LLMs. Passionate about building scalable systems and
+              innovative solutions.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
