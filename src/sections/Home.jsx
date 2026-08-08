@@ -23,12 +23,12 @@ function Home() {
           Software Engineer | .NET | Angular | NestJS | Azure | Aspiring AI
           Engineer | Microsoft Power Platform | Agentic AI | LLM
         </p>
-        <p className="text-gray-300 text-lg mb-8 max-w-lg mx-auto">
+        {/* <p className="text-gray-300 text-lg mb-8 max-w-lg mx-auto">
           I am a Software Engineer who loves creating interactive, scalable web
           applications. I build real-world systems with .NET, Angular, NestJS,
           and Azure, and I am growing into AI engineering with Microsoft Power
           Platform, Agentic AI, and LLMs.
-        </p>
+        </p> */}
         <div className="flex justify-center items-center space-x-4">
           <a
             className="bg-gradient-to-r flex flex-row from-teal-500 to-indigo-600 py-3 px-6 rounded hover:-translate-y-1   hover:shadow-[0_0_15px_rgba(59,130,246,0.4)]  font-medium transition relative overflow-hidden"
