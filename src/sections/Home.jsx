@@ -1,4 +1,4 @@
-import profileImg from "../assets/profilePic.jpg";
+import profileImg from "../assets/profile.png";
 import { FiDownload } from "react-icons/fi";
 import resume from "../assets/resume.pdf";
 
